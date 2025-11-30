@@ -27,8 +27,9 @@
 }
 
 * {
-  font-family: "Papyrus", "SF Pro", system-ui, "Segoe UI", Roboto, Helvetica,
-    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  font-family: "MySanFrancisco", "SF Pro", system-ui, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol" !important;
 }
 
 ytmusic-player-page:before {
